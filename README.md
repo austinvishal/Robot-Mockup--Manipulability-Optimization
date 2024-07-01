@@ -1,10 +1,9 @@
-# Robot-Mockup--Manipulability-Optimization
 
 <h1 align="center">
 Robot mockup : Manipulability Optimization of Planar Redundant Robot </h1>
 <div align="center">
 <i>
-V. Ramadoss : Visit my Youtube channel by clicking the video preview below
+V. Ramadoss 
 </i>
 </div>
 
