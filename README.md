@@ -9,7 +9,7 @@ V. Ramadoss
 
 # Description of the Model
 
-A 3 DOF Planar robot is simulated with obstacle avoidance and manipulability optimization. It gives insights about manipulation problems for spatial redundant robots as well. 
+A 3 DOF Planar robot is simulated with obstacle avoidance and manipulability optimization. It gives insights about manipulation problems for spatial redundant robots as well.  Here the 3-DOF robot is tracing a circular trajectory. The whole problem is converted to numerical optimization problem and run using fmincon from MATLAB.
 
 <p align="center">
 
